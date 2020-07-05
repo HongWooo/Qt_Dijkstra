@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Dijkstra">
+    <file>Resources/load.png</file>
+    <file>Resources/edit_24px_1208057_easyicon.net.png</file>
+    <file>Resources/flag_24.15444015444px_1227697_easyicon.net.png</file>
+  </qresource>
+</RCC>
